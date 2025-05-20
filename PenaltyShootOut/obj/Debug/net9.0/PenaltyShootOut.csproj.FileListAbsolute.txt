@@ -12,3 +12,4 @@ C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\PenaltyShootOut\PenaltyShootOut
 C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\PenaltyShootOut\PenaltyShootOut\obj\Debug\net9.0\PenaltyShootOut.pdb
 C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\PenaltyShootOut\PenaltyShootOut\obj\Debug\net9.0\PenaltyShootOut.genruntimeconfig.cache
 C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\PenaltyShootOut\PenaltyShootOut\obj\Debug\net9.0\ref\PenaltyShootOut.dll
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\PenaltyShootOut\PenaltyShootOut\obj\Debug\net9.0\PenaltyShootOut.sourcelink.json

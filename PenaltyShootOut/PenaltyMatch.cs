@@ -7,13 +7,13 @@ class PenaltyMatch
     private int attempts = 0;
     private readonly int maxAttempts;
     private readonly Player player;
-    private readonly KeeperAI keeper;
+    private readonly KeeperNPC keeper;
 
     public PenaltyMatch(int maxAttempts = 5)
     {
         this.maxAttempts = maxAttempts;
         player = new Player();
-        keeper = new KeeperAI();
+        keeper = new KeeperNPC();
     }
 
     public void Start()
