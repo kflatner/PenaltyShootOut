@@ -1,0 +1,14 @@
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\PenaltyShootOut\PenaltyShootOut\bin\Debug\net9.0\PenaltyShootOut.exe
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\PenaltyShootOut\PenaltyShootOut\bin\Debug\net9.0\PenaltyShootOut.deps.json
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\PenaltyShootOut\PenaltyShootOut\bin\Debug\net9.0\PenaltyShootOut.runtimeconfig.json
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\PenaltyShootOut\PenaltyShootOut\bin\Debug\net9.0\PenaltyShootOut.dll
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\PenaltyShootOut\PenaltyShootOut\bin\Debug\net9.0\PenaltyShootOut.pdb
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\PenaltyShootOut\PenaltyShootOut\obj\Debug\net9.0\PenaltyShootOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\PenaltyShootOut\PenaltyShootOut\obj\Debug\net9.0\PenaltyShootOut.AssemblyInfoInputs.cache
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\PenaltyShootOut\PenaltyShootOut\obj\Debug\net9.0\PenaltyShootOut.AssemblyInfo.cs
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\PenaltyShootOut\PenaltyShootOut\obj\Debug\net9.0\PenaltyShootOut.csproj.CoreCompileInputs.cache
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\PenaltyShootOut\PenaltyShootOut\obj\Debug\net9.0\PenaltyShootOut.dll
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\PenaltyShootOut\PenaltyShootOut\obj\Debug\net9.0\refint\PenaltyShootOut.dll
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\PenaltyShootOut\PenaltyShootOut\obj\Debug\net9.0\PenaltyShootOut.pdb
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\PenaltyShootOut\PenaltyShootOut\obj\Debug\net9.0\PenaltyShootOut.genruntimeconfig.cache
+C:\Users\Meg\Desktop\Programering\Rider\Oppgaver\PenaltyShootOut\PenaltyShootOut\obj\Debug\net9.0\ref\PenaltyShootOut.dll
